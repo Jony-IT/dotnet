@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\valij\\Desktop\\dotnet\\MongoDbBeta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E544972D-B68F-445D-8D36-BB19375DAA9C}|MongoDbBeta\\MongoDbBeta.csproj|c:\\users\\valij\\desktop\\dotnet\\mongodbbeta\\mongodbbeta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E544972D-B68F-445D-8D36-BB19375DAA9C}|MongoDbBeta\\MongoDbBeta.csproj|solutionrelative:mongodbbeta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E544972D-B68F-445D-8D36-BB19375DAA9C}|MongoDbBeta\\MongoDbBeta.csproj|c:\\users\\valij\\desktop\\dotnet\\mongodbbeta\\mongodbbeta\\controllers\\controllers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E544972D-B68F-445D-8D36-BB19375DAA9C}|MongoDbBeta\\MongoDbBeta.csproj|solutionrelative:mongodbbeta\\controllers\\controllers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E544972D-B68F-445D-8D36-BB19375DAA9C}|MongoDbBeta\\MongoDbBeta.csproj|c:\\users\\valij\\desktop\\dotnet\\mongodbbeta\\mongodbbeta\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E544972D-B68F-445D-8D36-BB19375DAA9C}|MongoDbBeta\\MongoDbBeta.csproj|solutionrelative:mongodbbeta\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E544972D-B68F-445D-8D36-BB19375DAA9C}|MongoDbBeta\\MongoDbBeta.csproj|c:\\users\\valij\\desktop\\dotnet\\mongodbbeta\\mongodbbeta\\services\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E544972D-B68F-445D-8D36-BB19375DAA9C}|MongoDbBeta\\MongoDbBeta.csproj|solutionrelative:mongodbbeta\\services\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E544972D-B68F-445D-8D36-BB19375DAA9C}|MongoDbBeta\\MongoDbBeta.csproj|c:\\users\\valij\\desktop\\dotnet\\mongodbbeta\\mongodbbeta\\services\\assortmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E544972D-B68F-445D-8D36-BB19375DAA9C}|MongoDbBeta\\MongoDbBeta.csproj|solutionrelative:mongodbbeta\\services\\assortmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E544972D-B68F-445D-8D36-BB19375DAA9C}|MongoDbBeta\\MongoDbBeta.csproj|c:\\users\\valij\\desktop\\dotnet\\mongodbbeta\\mongodbbeta\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E544972D-B68F-445D-8D36-BB19375DAA9C}|MongoDbBeta\\MongoDbBeta.csproj|solutionrelative:mongodbbeta\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E544972D-B68F-445D-8D36-BB19375DAA9C}|MongoDbBeta\\MongoDbBeta.csproj|c:\\users\\valij\\desktop\\dotnet\\mongodbbeta\\mongodbbeta\\models\\assortment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E544972D-B68F-445D-8D36-BB19375DAA9C}|MongoDbBeta\\MongoDbBeta.csproj|solutionrelative:mongodbbeta\\models\\assortment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E544972D-B68F-445D-8D36-BB19375DAA9C}|MongoDbBeta\\MongoDbBeta.csproj|c:\\users\\valij\\desktop\\dotnet\\mongodbbeta\\mongodbbeta\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E544972D-B68F-445D-8D36-BB19375DAA9C}|MongoDbBeta\\MongoDbBeta.csproj|solutionrelative:mongodbbeta\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\valij\\Desktop\\dotnet\\MongoDbBeta\\MongoDbBeta\\appsettings.json",
+              "RelativeDocumentMoniker": "MongoDbBeta\\appsettings.json",
+              "ToolTip": "C:\\Users\\valij\\Desktop\\dotnet\\MongoDbBeta\\MongoDbBeta\\appsettings.json",
+              "RelativeToolTip": "MongoDbBeta\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-07T19:51:11.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\Desktop\\dotnet\\MongoDbBeta\\MongoDbBeta\\Program.cs",
+              "RelativeDocumentMoniker": "MongoDbBeta\\Program.cs",
+              "ToolTip": "C:\\Users\\valij\\Desktop\\dotnet\\MongoDbBeta\\MongoDbBeta\\Program.cs",
+              "RelativeToolTip": "MongoDbBeta\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T19:45:40.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Controllers.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\Desktop\\dotnet\\MongoDbBeta\\MongoDbBeta\\Controllers\\Controllers.cs",
+              "RelativeDocumentMoniker": "MongoDbBeta\\Controllers\\Controllers.cs",
+              "ToolTip": "C:\\Users\\valij\\Desktop\\dotnet\\MongoDbBeta\\MongoDbBeta\\Controllers\\Controllers.cs",
+              "RelativeToolTip": "MongoDbBeta\\Controllers\\Controllers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T19:44:57.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\Desktop\\dotnet\\MongoDbBeta\\MongoDbBeta\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "MongoDbBeta\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\valij\\Desktop\\dotnet\\MongoDbBeta\\MongoDbBeta\\Services\\OrderService.cs",
+              "RelativeToolTip": "MongoDbBeta\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T19:44:17.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssortmentService.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\Desktop\\dotnet\\MongoDbBeta\\MongoDbBeta\\Services\\AssortmentService.cs",
+              "RelativeDocumentMoniker": "MongoDbBeta\\Services\\AssortmentService.cs",
+              "ToolTip": "C:\\Users\\valij\\Desktop\\dotnet\\MongoDbBeta\\MongoDbBeta\\Services\\AssortmentService.cs",
+              "RelativeToolTip": "MongoDbBeta\\Services\\AssortmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T19:43:42.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MongoDbService.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\Desktop\\dotnet\\MongoDbBeta\\MongoDbBeta\\Services\\MongoDbService.cs",
+              "RelativeDocumentMoniker": "MongoDbBeta\\Services\\MongoDbService.cs",
+              "ToolTip": "C:\\Users\\valij\\Desktop\\dotnet\\MongoDbBeta\\MongoDbBeta\\Services\\MongoDbService.cs",
+              "RelativeToolTip": "MongoDbBeta\\Services\\MongoDbService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T19:43:13.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\Desktop\\dotnet\\MongoDbBeta\\MongoDbBeta\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "MongoDbBeta\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\valij\\Desktop\\dotnet\\MongoDbBeta\\MongoDbBeta\\Models\\Order.cs",
+              "RelativeToolTip": "MongoDbBeta\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T19:42:33.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Assortment.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\Desktop\\dotnet\\MongoDbBeta\\MongoDbBeta\\Models\\Assortment.cs",
+              "RelativeDocumentMoniker": "MongoDbBeta\\Models\\Assortment.cs",
+              "ToolTip": "C:\\Users\\valij\\Desktop\\dotnet\\MongoDbBeta\\MongoDbBeta\\Models\\Assortment.cs",
+              "RelativeToolTip": "MongoDbBeta\\Models\\Assortment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T19:42:00.852Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

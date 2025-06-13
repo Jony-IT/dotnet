@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\valij\\source\\repos\\Rest_Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{578FB785-41EF-4468-A262-B02CE72788CF}|Rest_Api\\Rest_Api.csproj|c:\\users\\valij\\source\\repos\\rest_api\\rest_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{578FB785-41EF-4468-A262-B02CE72788CF}|Rest_Api\\Rest_Api.csproj|solutionrelative:rest_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{578FB785-41EF-4468-A262-B02CE72788CF}|Rest_Api\\Rest_Api.csproj|c:\\users\\valij\\source\\repos\\rest_api\\rest_api\\models\\ordersregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{578FB785-41EF-4468-A262-B02CE72788CF}|Rest_Api\\Rest_Api.csproj|solutionrelative:rest_api\\models\\ordersregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{578FB785-41EF-4468-A262-B02CE72788CF}|Rest_Api\\Rest_Api.csproj|c:\\users\\valij\\source\\repos\\rest_api\\rest_api\\models\\orderscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{578FB785-41EF-4468-A262-B02CE72788CF}|Rest_Api\\Rest_Api.csproj|solutionrelative:rest_api\\models\\orderscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{578FB785-41EF-4468-A262-B02CE72788CF}|Rest_Api\\Rest_Api.csproj|c:\\users\\valij\\source\\repos\\rest_api\\rest_api\\models\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{578FB785-41EF-4468-A262-B02CE72788CF}|Rest_Api\\Rest_Api.csproj|solutionrelative:rest_api\\models\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{578FB785-41EF-4468-A262-B02CE72788CF}|Rest_Api\\Rest_Api.csproj|c:\\users\\valij\\source\\repos\\rest_api\\rest_api\\models\\assortment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{578FB785-41EF-4468-A262-B02CE72788CF}|Rest_Api\\Rest_Api.csproj|solutionrelative:rest_api\\models\\assortment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{578FB785-41EF-4468-A262-B02CE72788CF}|Rest_Api\\Rest_Api.csproj|c:\\users\\valij\\source\\repos\\rest_api\\rest_api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{578FB785-41EF-4468-A262-B02CE72788CF}|Rest_Api\\Rest_Api.csproj|solutionrelative:rest_api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{578FB785-41EF-4468-A262-B02CE72788CF}|Rest_Api\\Rest_Api.csproj|c:\\users\\valij\\source\\repos\\rest_api\\rest_api\\controllers\\assortmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{578FB785-41EF-4468-A262-B02CE72788CF}|Rest_Api\\Rest_Api.csproj|solutionrelative:rest_api\\controllers\\assortmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{578FB785-41EF-4468-A262-B02CE72788CF}|Rest_Api\\Rest_Api.csproj|c:\\users\\valij\\source\\repos\\rest_api\\rest_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{578FB785-41EF-4468-A262-B02CE72788CF}|Rest_Api\\Rest_Api.csproj|solutionrelative:rest_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{578FB785-41EF-4468-A262-B02CE72788CF}|Rest_Api\\Rest_Api.csproj|c:\\users\\valij\\source\\repos\\rest_api\\rest_api\\migrations\\orderscontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{578FB785-41EF-4468-A262-B02CE72788CF}|Rest_Api\\Rest_Api.csproj|solutionrelative:rest_api\\migrations\\orderscontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\source\\repos\\Rest_Api\\Rest_Api\\Program.cs",
+              "RelativeDocumentMoniker": "Rest_Api\\Program.cs",
+              "ToolTip": "C:\\Users\\valij\\source\\repos\\Rest_Api\\Rest_Api\\Program.cs",
+              "RelativeToolTip": "Rest_Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:30:19.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\source\\repos\\Rest_Api\\Rest_Api\\Models\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Rest_Api\\Models\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\valij\\source\\repos\\Rest_Api\\Rest_Api\\Models\\DbInitializer.cs",
+              "RelativeToolTip": "Rest_Api\\Models\\DbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:29:36.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrdersContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\source\\repos\\Rest_Api\\Rest_Api\\Migrations\\OrdersContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Rest_Api\\Migrations\\OrdersContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\valij\\source\\repos\\Rest_Api\\Rest_Api\\Migrations\\OrdersContextModelSnapshot.cs",
+              "RelativeToolTip": "Rest_Api\\Migrations\\OrdersContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T21:48:51.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\valij\\source\\repos\\Rest_Api\\Rest_Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Rest_Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\valij\\source\\repos\\Rest_Api\\Rest_Api\\appsettings.json",
+              "RelativeToolTip": "Rest_Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-27T11:08:47.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\source\\repos\\Rest_Api\\Rest_Api\\Models\\OrdersRegistration.cs",
+              "RelativeDocumentMoniker": "Rest_Api\\Models\\OrdersRegistration.cs",
+              "ToolTip": "C:\\Users\\valij\\source\\repos\\Rest_Api\\Rest_Api\\Models\\OrdersRegistration.cs",
+              "RelativeToolTip": "Rest_Api\\Models\\OrdersRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:16:32.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssortmentController.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\source\\repos\\Rest_Api\\Rest_Api\\Controllers\\AssortmentController.cs",
+              "RelativeDocumentMoniker": "Rest_Api\\Controllers\\AssortmentController.cs",
+              "ToolTip": "C:\\Users\\valij\\source\\repos\\Rest_Api\\Rest_Api\\Controllers\\AssortmentController.cs",
+              "RelativeToolTip": "Rest_Api\\Controllers\\AssortmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T14:30:58.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Assortment.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\source\\repos\\Rest_Api\\Rest_Api\\Models\\Assortment.cs",
+              "RelativeDocumentMoniker": "Rest_Api\\Models\\Assortment.cs",
+              "ToolTip": "C:\\Users\\valij\\source\\repos\\Rest_Api\\Rest_Api\\Models\\Assortment.cs",
+              "RelativeToolTip": "Rest_Api\\Models\\Assortment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T13:51:31.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersContext.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\source\\repos\\Rest_Api\\Rest_Api\\Models\\OrdersContext.cs",
+              "RelativeDocumentMoniker": "Rest_Api\\Models\\OrdersContext.cs",
+              "ToolTip": "C:\\Users\\valij\\source\\repos\\Rest_Api\\Rest_Api\\Models\\OrdersContext.cs",
+              "RelativeToolTip": "Rest_Api\\Models\\OrdersContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T13:45:22.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\valij\\source\\repos\\Rest_Api\\Rest_Api\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Rest_Api\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\valij\\source\\repos\\Rest_Api\\Rest_Api\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Rest_Api\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T13:56:55.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
